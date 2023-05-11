@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
 
 
 import cv2
@@ -44,8 +40,6 @@ while True:
 video_capture.release()
 cv2.destroyAllWindows()
 
-
-# In[ ]:
 
 
 
